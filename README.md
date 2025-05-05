@@ -9,6 +9,8 @@
 
 ### 🚀 About Me
 
+- 🔄 Hands-on with CI/CD pipelines, GitHub Actions, and containerization using Docker
+- 🧪 Enjoy experimenting with side projects to sharpen DevOps, automation, and scripting skills
 - 🔧 Automating infrastructure with **Terraform** on **AWS**
 - 🐧 Passionate about Linux, scripting, and open source
 - 📬 Reach me: **puspendrachawlax@gmail.com**
