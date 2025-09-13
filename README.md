@@ -212,7 +212,7 @@
 
 ---
 
-## 📝 Latest Blog Posts & Activities
+## 📝 Activities
 
 <!-- BLOG-POST-LIST:START -->
 - 🔧 Building production-ready authentication systems with Go
