@@ -17,7 +17,6 @@
 - 🔄 **Software Engineer** specializing in CI/CD pipelines, containerization, and cloud infrastructure
 - 🏗️ Building production-ready applications with **Go**, **Python**
 - ☁️ Automating cloud infrastructure with **Terraform** on **AWS**
-- 🧪 Passionate about chaos engineering and testing resilient systems
 - 🐧 Linux enthusiast and open source contributor
 - 📬 **Reach me:** puspendrachawlax@gmail.com
 - 📍 **Location:** Rajasthan, India
