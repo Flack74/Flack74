@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puspendra Chawla</h1>
-<h3 align="center">DevOps Engineer & Cloud Enthusiast ☁️</h3>
+<h3 align="center">Software Engineer & Cloud Enthusiast ☁️</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Flack74&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Flack74?label=Followers&style=social" alt="followers" />
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔄 **DevOps Engineer** specializing in CI/CD pipelines, containerization, and cloud infrastructure
+- 🔄 **Software Engineer** specializing in CI/CD pipelines, containerization, and cloud infrastructure
 - 🏗️ Building production-ready applications with **Go**, **Python**
 - ☁️ Automating cloud infrastructure with **Terraform** on **AWS**
 - 🧪 Passionate about chaos engineering and testing resilient systems
@@ -119,17 +119,6 @@
 **Chaos engineering platform for Kubernetes resilience testing**
 <br/>
 `Go` `Kubernetes` `Chaos Engineering` `CI/CD` `Monitoring`
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flack74&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flack74&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
