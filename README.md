@@ -99,11 +99,6 @@
 <br/>
 `Terraform` `AWS EKS` `Kubernetes` `GitHub Actions` `Infrastructure as Code`
 
-### 💬 [BuzzWire](https://github.com/Flack74/BuzzWire)
-**Real-time chat application with WebSocket technology**
-<br/>
-`Go` `Fiber` `WebSockets` `HTML/CSS` `Real-time Communication`
-
 ### 📸 [AutoSnapper](https://github.com/Flack74/AutoSnapper)
 **Enterprise DevOps screenshot service with Redis caching**
 <br/>
