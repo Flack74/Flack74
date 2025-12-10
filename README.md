@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+%26+Cloud+Engineer;Go+%26+Python+Developer;Infrastructure+as+Code+Enthusiast;Kubernetes+%26+Docker+Enthusiast;CI%2FCD+Pipeline+Architect;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+%26+DevOps+Engineer;Go+%26+Python+Developer;Infrastructure+as+Code+Enthusiast;Kubernetes+%26+Docker+Enthusiast;CI%2FCD+Pipeline+Architect;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
 
 ---
