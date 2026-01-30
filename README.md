@@ -89,6 +89,16 @@
 
 <div align="center">
 
+### 🗺️ [BriWorld](https://github.com/Flack74/Briworld)
+**BriWorld is a real-time multiplayer geography quiz game built using Go**
+<br/>
+`Go` `Fiber` `WebSocket` `Neon PostgreSQL` `React` `Docker` `JWT` `Fuzzy Matching`
+
+### 🚚 [Delivery Management System](github.com/Flack74/delivery-Management-System)
+**A high-performance, enterprise-grade delivery management backend built with Go**
+<br/>
+`Go` `Gin` `PostgreSQL` `Redis` `Docker` `JWT` `Worker Pools`
+
 ### 🔐 [Authentication System](https://github.com/Flack74/Authentication-System)
 **Production-ready Go authentication system with enterprise security**
 <br/>
