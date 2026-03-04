@@ -7,19 +7,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+%26+DevOps+Engineer;Go+%26+Python+Developer;Infrastructure+as+Code+Enthusiast;Kubernetes+%26+Docker+Enthusiast;CI%2FCD+Pipeline+Architect;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Golang+Developer;Python+Developer;DevOps+and+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ## 🚀 About Me
 
-- 🔄 **Software Engineer** specializing in CI/CD pipelines, containerization, and cloud infrastructure
-- 🏗️ Building production-ready applications with **Go**, **Python**
-- ☁️ Automating cloud infrastructure with **Terraform** on **AWS**
-- 🐧 Linux enthusiast and open source contributor
-- 📬 **Reach me:** puspendrachawlax@gmail.com
-- 📍 **Location:** Rajasthan, India
+* 🔄 **Software Engineer** specializing in backend systems, containerization, and cloud infrastructure
+* 🏗️ Building production-ready applications with **Go**, **Python**, and **JavaScript**
+* ☁️ Automating cloud infrastructure with **Terraform** on **AWS**
+* 🐧 Linux enthusiast and open source contributor
+* 📬 **Reach me:** [puspendrachawlax@gmail.com](mailto:puspendrachawlax@gmail.com)
+* 📍 **Location:** Rajasthan, India
 
 ---
 
@@ -89,10 +90,16 @@
 
 <div align="center">
 
+### 🚀 Webhook Delivery Platform
+
+**Reliable webhook infrastructure with Redis durable queues and concurrent workers
+
+`Go` `Gin` `PostgreSQL` `Redis` `Docker`
+
 ### 🗺️ [BriWorld](https://github.com/Flack74/Briworld)
-**BriWorld is a real-time multiplayer geography quiz game built using Go**
+**BriWorld is a real-time multiplayer geography quiz game built using Go and ReactJS**
 <br/>
-`Go` `Fiber` `WebSocket` `Neon PostgreSQL` `React` `Docker` `JWT` `Fuzzy Matching`
+`Go` `Fiber` `WebSocket` `Neon PostgreSQL` `Upstash Redis` `React` `Docker` `JWT` `Fuzzy Matching` 
 
 ### 🚚 [Delivery Management System](github.com/Flack74/delivery-Management-System)
 **A high-performance, enterprise-grade delivery management backend built with Go**
@@ -138,7 +145,7 @@
 
 ---
 
-## 🌟 Skills Matrix
+<!-- ## 🌟 Skills Matrix
 
 <table align="center">
 <tr>
@@ -174,10 +181,10 @@
 </td>
 </tr>
 </table>
-
+-->
 ---
 
-## 💼 Professional Experience
+## 💼 Education
 
 ### 🎓 Recent Graduate (2025) - Computer Science
 **Modern Institute of Technology and Research Centre**
@@ -208,12 +215,13 @@
 ## 📝 Activities
 
 <!-- BLOG-POST-LIST:START -->
-- 🔧 Building production-ready authentication systems with Go
-- ☁️ Infrastructure as Code best practices with Terraform
-- 🚀 Deploying microservices on AWS EKS
-- 🔄 CI/CD pipeline optimization techniques
-- 🐳 Container security and optimization strategies
+* 🚀 Building distributed backend systems with Go
+* ⚡ Designing event-driven architectures using Redis and PostgreSQL
+* 🌐 Developing real-time applications with WebSockets
+* 🔐 Implementing secure authentication systems with JWT
+* 📦 Building scalable APIs and worker-based background systems
 <!-- BLOG-POST-LIST:END -->
+
 
 ---
 
@@ -230,5 +238,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Flack74&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
   <br/>
-  <sub>⚡ Powered by passion for DevOps and Cloud Technologies ⚡</sub>
+  <sub>⚡ Powered by curiosity and continuous learning ⚡</sub>
 </div>
