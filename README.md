@@ -191,12 +191,6 @@
 - CGPA: 7.8/10
 - Specialized in Cloud Computing, Computer Networks
 
-### 🚀 Current Focus
-- **DevOps Engineering** - Building robust CI/CD pipelines
-- **Cloud Infrastructure** - AWS solutions and automation
-- **Open Source Contributions** - Active community participation
-- **Job Hunting** - Seeking DevOps/Cloud Engineer opportunities
-
 ---
 
 ## 🤝 Connect with Me
